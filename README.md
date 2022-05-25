@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Kindai University
 - 🌱 I’m currently learning the Superpixel Approach method which is used in the field of ML
-- 
+
 - 📫 How to reach me: mahboonuts4051@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Cycling, PhotoShooting, Workingout etc...
