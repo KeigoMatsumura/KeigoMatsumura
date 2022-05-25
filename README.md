@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Kindai University
-- 🌱 I’m currently learning MySQL, Django, PHP and ENGLISH!
-
+- 🔭 I’m currently studying on Kindai University
+- 🌱 I’m currently learning Superpixel Approach which is used in the field of ML
+- 
 - 📫 How to reach me: mahboonuts4051@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Cycling, PhotoShooting, Workingout etc...
