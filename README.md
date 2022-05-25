@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - Languages: `Python` `Java`  `PHP`
 - Web Technologies: `HTML` `CSS` `JavaScript` `Django`
 - Database Technologies:`MySQL` `MariaDB`
-- Programing Profiles: [m2lab(in development)](https://m2lab.tech)
+- Programing Profiles: [TheM2lab web platform (in development)](https://m2lab.tech)
