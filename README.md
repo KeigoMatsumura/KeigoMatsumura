@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### My Skills include
 - I speak: `Japanies(Native)` `English(TOEIC Score: 745)`
-- Web Technologies: `HTML` `CSS` `JavaScript` `Django`
+- Web Technologies: `HTML` `CSS` `JavaScript` `JQuery`
 - Server side Technologies: `Linux` `Python` `Java` `PHP` `Nginx` `OpenVPN`
 - Database Technologies:`MySQL` `MariaDB`
 - Programing Profiles: [TheM2lab web platform (in development)](https://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
