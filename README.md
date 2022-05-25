@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 
 ### My Skills include
-- Languages: `Python` `Java`  `PHP` `English*TOEIC745`
+- I speak: `Japanies(Native)` `English(TOEIC Score: 745)`
 - Web Technologies: `HTML` `CSS` `JavaScript` `Django`
+- Server side Technologies: `Linux` `Python` `Java` `PHP` `Nginx` `OpenVPN`
 - Database Technologies:`MySQL` `MariaDB`
 - Programing Profiles: [TheM2lab web platform (in development)](https://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
