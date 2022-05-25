@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### My Skills include
-- Languages: `Python` `Java`  `PHP`
+- Languages: `Python` `Java`  `PHP` `English*TOEIC745`
 - Web Technologies: `HTML` `CSS` `JavaScript` `Django`
 - Database Technologies:`MySQL` `MariaDB`
 - Programing Profiles: [TheM2lab web platform (in development)](https://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
