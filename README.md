@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying image recognition, ML on Kindai University
+- 🔭 I’m currently working on master's thesis at Kindai University
 - 🌱 I’m currently learning the Superpixel Approach method which is used in the field of ML
 
 - 📫 How to reach me: mahboonuts4051@gmail.com
