@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ## My Skills include
-- Languages: `Python``Java` `PHP`
-- Web Technologies: `HTML``CSS``JavaScript``Django`
-- Database Technologies:`MySQL``MariaDB`
-- Programing Profiles: [m2lab.tech]
+- Languages: `Python` `Java`  `PHP`
+- Web Technologies: `HTML` `CSS` `JavaScript` `Django`
+- Database Technologies:`MySQL` `MariaDB`
+- Programing Profiles: m2lab.tech
