@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - Web Technologies: `HTML` `CSS` `JavaScript` `JQuery`
 - Server side Technologies: `Linux` `Python` `Java` `PHP` `Nginx` `OpenVPN`
 - Database Technologies:`MySQL` `MariaDB`
-- Programing Profiles: [TheM2lab web platform (in development)](https://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
+- Programing Profiles: , [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
