@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Server side Technologies: `Linux` `Python` `Java` `PHP` `Nginx` `OpenVPN`
 - Database Technologies:`MySQL` `MariaDB`
 - Programing Profiles: [TheM2lab web platform (in development)](http://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
-- My Past-Projects (as a Web Design Agency): [Cafe and Bar ChouChou](https://cafe-bar-chouchou.com/),
+- Our Past-Projects (as a Web Design Agency): [Cafe and Bar ChouChou](https://cafe-bar-chouchou.com/),
