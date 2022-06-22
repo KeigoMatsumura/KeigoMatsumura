@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - Database Technologies:`MySQL` `MariaDB`
 - Programing Profiles: [TheM2lab web platform (in development)](http://m2lab.tech), [AtCoder Programing Competition](https://atcoder.jp/users/ac4)
 - Our Past-Projects (as a Web Design Agency): [Cafe and Bar ChouChou](https://cafe-bar-chouchou.com/),
-- My Home-Lab Network Chart:
+- My Home-Lab Network Overview:
 
 ![M2labOsaka-Network2](https://user-images.githubusercontent.com/84485141/175111185-69d6210e-36e5-4450-a637-7fc46341129c.png)
