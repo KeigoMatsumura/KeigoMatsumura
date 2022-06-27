@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### My Skills include
-- I speak: `Japanies(Native)` `English(TOEIC Score: 745)`
+- I speak: `Japanies(Native)` `English`
 - Web Technologies: `HTML` `CSS` `JavaScript` `JQuery`
 - Server side Technologies: `Linux` `Python` `Java` `PHP` `Nginx` `OpenVPN`
 - Database Technologies:`MySQL` `MariaDB`
