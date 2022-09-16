@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently studying at Kindai University, Osaka
 - 📪 How to reach me: mahboonuts4951@gmail.com
 ___
 
