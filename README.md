@@ -5,6 +5,4 @@
 ___
 ### Links ⛓
 - Signate: https://signate.jp/users/91255
-- Kaggle: 
-- atCoder:
 - Blogs: matsumura.keigo.com
