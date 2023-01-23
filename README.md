@@ -19,12 +19,15 @@
 </p>
     
 <h3 align="left">Connect with me:</h3>
+    
 - E-mail: mahboonuts4951@gmail.com
 - Signate: https://signate.jp/users/91255
 - Blogs: [m2lab.tech(まつにいの技術ブログ)](https://keigomatsumura.github.io/)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeigoMatsumura&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats){.pull-right}
-
+テキストを左側に回りこませられます。
+<div class="clearfix"></div>
+    
 ___
 
 <h3 align="left">Dev Ops, Database:</h3>
