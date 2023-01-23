@@ -1,4 +1,4 @@
-<h2 align="center">A passionate Network-Infa Engineer from Japan</h2>
+<h2 align="center">A passionate Network-Infa Engineer from Kochi, Japan</h2>
 
 </p>
 <p align="left">
