@@ -19,7 +19,7 @@
 </p>
     
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+  
 - E-mail: mahboonuts4951@gmail.com
 - Signate: https://signate.jp/users/91255
 - Blogs: matsumura.keigo.com
