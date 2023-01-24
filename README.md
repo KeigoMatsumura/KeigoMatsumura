@@ -22,7 +22,7 @@
     
 - E-mail: mahboonuts4951@gmail.com
 - Signate: https://signate.jp/users/91255
-- Blogs: [m2lab.tech(まつにいの技術ブログ)](https://keigomatsumura.github.io/)
+- Blogs: [blog.m2lab.tech(まつにいの技術ブログ)](https://keigomatsumura.github.io/)
     
 ___
 
