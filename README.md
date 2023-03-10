@@ -18,16 +18,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/KeigoMatsumura/posts.svg" />
   </a
 </p>
-    
-<h3 align="left">Connect with me:</h3>
-    
-- E-mail: mahboonuts4951@gmail.com
-- Signate: https://signate.jp/users/91255
-- Blogs: [blog.m2lab.tech(まつにいの技術ブログ)](https://blog.m2lab.tech/)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeigoMatsumura&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeigoMatsumura&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-  ___
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hzglwubmjtkio5yrycqg3yjshy&count=4&width=700)
