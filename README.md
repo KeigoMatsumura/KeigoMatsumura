@@ -8,9 +8,9 @@
   <a href="https://github.com/KeigoMatsumura">
     <img height="20" src="https://img.shields.io/github/followers/KeigoMatsumura?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/m2cyclist">
+<!--   <a href="http://twitter.com/m2cyclist">
     <img height="20" src="https://img.shields.io/twitter/follow/m2cyclist?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <a href="https://stackoverflow.com/users/21064720/KeigoMatsumura">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/21064720?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
